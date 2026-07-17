@@ -989,7 +989,7 @@ export default function App() {
                 </h1>
                 
                 <p className="text-white/80 text-[11px] md:text-xs font-semibold leading-relaxed max-w-sm">
-                  Mari Berproses Supaya Sukses, Mari Berjualan Supaya Liburan. Aamiiin.
+                  Mari Berproses Supaya Sukses, Mari Berjualan Supaya Liburan, Aamiiin.
                 </p>
               </div>
 
@@ -998,7 +998,7 @@ export default function App() {
                   "Sistem yang rapi dan pelayanan cepat adalah fondasi utama bagi kemajuan bisnis yang berkelanjutan."
                 </p>
                 <p className="text-white/60 text-[8.5px] md:text-[9.5px] font-bold uppercase tracking-widest mt-2.5">
-                  — TIM KASIR GUNS YOUNG
+                  — TIM KASIR
                 </p>
               </div>
             </div>
