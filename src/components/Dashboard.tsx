@@ -119,8 +119,8 @@ export default function Dashboard({
   const PIE_COLORS = ['#34d399', '#3b82f6', '#f59e0b', '#ec4899', '#8b5cf6', '#ef4444'];
 
   // Default store settings fallbacks if not supplied
-  const activeStoreName = storeSettings?.name || "KASIR PINTAR COFFEE & EATERY";
-  const activeStoreAddress = storeSettings?.address || "Jl. Sudirman No. 45, Jakarta";
+  const activeStoreName = storeSettings?.name || "KASIR Guns Young";
+  const activeStoreAddress = storeSettings?.address || "Jl. Mannuruki, Tamalate, Makassar";
 
   // Filter transactions based on dateRange and selectedMonth
   const filteredTransactions = useMemo(() => {
