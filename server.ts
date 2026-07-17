@@ -166,7 +166,7 @@ const INITIAL_TRANSACTIONS = [
     cashAmount: 60000,
     changeAmount: 2280,
     cashierId: 'user-3',
-    cashierName: 'Rina Kasir',
+    cashierName: 'Qisti Kasir',
   },
   {
     id: 'tx-002',
