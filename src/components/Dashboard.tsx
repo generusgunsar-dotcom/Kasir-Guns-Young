@@ -304,9 +304,9 @@ export default function Dashboard({
 
     // Initialize list from actual users in the database / state
     const activeUsersList = users.length > 0 ? users : [
-      { id: 'user-1', username: 'owner', password: 'owner123', name: 'Adi Pemilik', role: 'owner', active: true },
-      { id: 'user-2', username: 'admin', password: 'admin123', name: 'Fajar Admin', role: 'admin', active: true },
-      { id: 'user-3', username: 'kasir', password: 'kasir123', name: 'Rina Kasir', role: 'cashier', active: true }
+      { id: 'user-1', username: 'owner', password: 'owner123', name: 'Ilman Pemilik', role: 'owner', active: true },
+      { id: 'user-2', username: 'admin', password: 'admin123', name: 'Imel Admin', role: 'admin', active: true },
+      { id: 'user-3', username: 'kasir', password: 'kasir123', name: 'Qisti Kasir', role: 'cashier', active: true }
     ];
 
     // Create entries for each user
