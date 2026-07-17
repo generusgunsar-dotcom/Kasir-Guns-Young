@@ -67,9 +67,9 @@ export default function App() {
       }
     }
     return {
-      name: "KASIR PINTAR COFFEE & EATERY",
-      address: "Jl. Sudirman No. 45, Jakarta",
-      phone: "0812-3456-7890",
+      name: "KASIR GUNS YOUNG",
+      address: "Jl. Mannuruki, Tamalate, Makassar",
+      phone: "0858-2354-1041",
       isTaxEnabled: true,
       taxPercentage: 11
     };
@@ -450,9 +450,9 @@ export default function App() {
 
         const savedUsers = localStorage.getItem('kp_users');
         const defaultUsers: User[] = [
-          { id: 'user-1', username: 'owner', password: 'owner123', name: 'Adi Pemilik', role: 'owner', active: true },
-          { id: 'user-2', username: 'admin', password: 'admin123', name: 'Fajar Admin', role: 'admin', active: true },
-          { id: 'user-3', username: 'kasir', password: 'kasir123', name: 'Rina Kasir', role: 'cashier', active: true }
+          { id: 'user-1', username: 'owner', password: 'owner123', name: 'Ilman Pemilik', role: 'owner', active: true },
+          { id: 'user-2', username: 'admin', password: 'admin123', name: 'Imel Admin', role: 'admin', active: true },
+          { id: 'user-3', username: 'kasir', password: 'kasir123', name: 'Qisti Kasir', role: 'cashier', active: true }
         ];
         if (savedUsers) {
           try {
